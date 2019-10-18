@@ -1,10 +1,8 @@
 ## Welcome to My Page
 
-This is blank page
-and
-I just want to tell you all 
-that i can write 
+This is **Hanifa**'s page and i'm not a programmer or develeoper. I just write this to test the feature and want to see how awesome *Github Page*
 
-**"Hello World"**
+Okay it's enough for me to test the feature
 
-### Thank You
+Thanks for visiting this page, see you in real world and 
+*God Bless You ~*
