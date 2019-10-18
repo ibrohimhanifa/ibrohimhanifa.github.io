@@ -1,5 +1,10 @@
 ## Welcome to My Page
 
-This is blank page, just to tell you all that i can write **"Hello World"**
+This is blank page
+and
+I just want to tell you all 
+that i can write 
 
-### Thanks
+**"Hello World"**
+
+### Thank You
