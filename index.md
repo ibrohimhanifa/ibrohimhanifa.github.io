@@ -4,5 +4,7 @@ This is **Hanifa**'s page and i'm not a programmer or develeoper. I just write t
 
 Okay it's enough for me to test the feature
 
-Thanks for visiting this page, see you in real world and 
-*God Bless You ~*
+Thanks for visiting this page, see you in real world and
+
+
+*God Bless You*~
